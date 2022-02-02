@@ -1,0 +1,8 @@
+com/rn/full/screen/FullScreen.java
+ com.rn.full.screen.FullScreen
+ com.rn.full.screen.FullScreen$1
+ com.rn.full.screen.FullScreen$2
+com/rn/full/screen/BuildConfig.java
+ com.rn.full.screen.BuildConfig
+com/rn/full/screen/FullScreenModule.java
+ com.rn.full.screen.FullScreenModule
